@@ -1,0 +1,352 @@
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Mindbox.Data.Linq.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Mindbox.Expressions.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\DomainDefinition.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Services.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\SQLDataAccess.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Services.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\DomainDefinition.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\SQLDataAccess.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\appsettings.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.exe
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.deps.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\AutoMapper.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Castle.Core.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Cors.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Http.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Mindbox.Data.Linq.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Mindbox.Expressions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\DomainDefinition.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Services.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Services.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\appsettings.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.exe
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.deps.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\WebApi.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\AutoMapper.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Castle.Core.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Cors.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Http.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Mindbox.Data.Linq.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Mindbox.Expressions.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Services.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\Services.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.pdb
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\appsettings.json
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\WebApi.exe
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\WebApi.deps.json
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\WebApi.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\WebApi.pdb
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\AutoMapper.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Azure.Core.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Castle.Core.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Web.Cors.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Web.Http.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Mindbox.Data.Linq.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Mindbox.Expressions.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Services.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\Services.pdb
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+E:\Programare Daria\csharp-course-1-main_bun\WebApi\obj\Debug\net7.0\ref\WebApi.dll
