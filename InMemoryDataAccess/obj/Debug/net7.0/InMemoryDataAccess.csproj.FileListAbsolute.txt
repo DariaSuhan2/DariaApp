@@ -1,0 +1,15 @@
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\bin\Debug\net7.0\InMemoryDataAccess.deps.json
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\bin\Debug\net7.0\InMemoryDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\bin\Debug\net7.0\InMemoryDataAccess.pdb
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.csproj.AssemblyReference.cache
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.AssemblyInfoInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.AssemblyInfo.cs
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.csproj.CoreCompileInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.csproj.CopyComplete
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\refint\InMemoryDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\InMemoryDataAccess.pdb
+E:\Programare Daria\csharp-course-1-main_bun\InMemoryDataAccess\obj\Debug\net7.0\ref\InMemoryDataAccess.dll
