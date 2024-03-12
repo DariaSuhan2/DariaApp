@@ -1,0 +1,68 @@
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\DomainDefinition.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\SQLDataAccess.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\DomainDefinition.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\SQLDataAccess.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\ref\Services.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.deps.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\DomainDefinition.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\refint\Services.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\ref\Services.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.deps.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\Services.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\refint\Services.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\Services.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Services\obj\Debug\net7.0\ref\Services.dll
+E:\Programare Daria\csharp-course-1-main_bun\Services\bin\Debug\net7.0\Services.deps.json
+E:\Programare Daria\csharp-course-1-main_bun\Services\bin\Debug\net7.0\Services.dll
+E:\Programare Daria\csharp-course-1-main_bun\Services\bin\Debug\net7.0\Services.pdb
+E:\Programare Daria\csharp-course-1-main_bun\Services\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\csharp-course-1-main_bun\Services\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\Services\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\csharp-course-1-main_bun\Services\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.dll
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\refint\Services.dll
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\Services.pdb
+E:\Programare Daria\csharp-course-1-main_bun\Services\obj\Debug\net7.0\ref\Services.dll
