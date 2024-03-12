@@ -30,7 +30,6 @@ namespace SQLDataAccess
                     .ForMember(d => d.CategoryName,
                         opt => opt.MapFrom(src => src.Category != null ? src.Category.Name : String.Empty)
 
-
                     );
 
                 cfg.CreateMap<SqlCar, Car>()
