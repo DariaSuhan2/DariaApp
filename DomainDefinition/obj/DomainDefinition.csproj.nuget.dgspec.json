@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj": {}
+    "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj": {}
   },
   "projects": {
-    "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj": {
+    "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj",
+        "projectUniqueName": "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj",
         "projectName": "DomainDefinition",
-        "projectPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj",
+        "projectPath": "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj",
         "packagesPath": "C:\\Users\\dani_\\.nuget\\packages\\",
-        "outputPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\obj\\",
+        "outputPath": "E:\\Programare Daria\\DariaApp\\DomainDefinition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dani_\\AppData\\Roaming\\NuGet\\NuGet.Config",

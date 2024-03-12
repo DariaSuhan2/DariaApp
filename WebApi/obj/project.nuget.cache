@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e/1z/mQJNuNciHYQ0WYYRXl/rF8BBKBdNbHdnzs8/PRnYjNkNnft/0sKsZkHH9TTVtNDXuRypHX0Q5BerN35ww==",
+  "dgSpecHash": "MybqqpzVY4Bm9qnvhL9w5Ds5FcEkLjw2yU/lnwyqC0HCNeJdA6q4Qq9o6tAKNar978X5lBQ7rv22NtdYxEUarg==",
   "success": true,
-  "projectFilePath": "E:\\Programare Daria\\csharp-course-1-main_bun\\WebApi\\WebApi.csproj",
+  "projectFilePath": "E:\\Programare Daria\\DariaApp\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dani_\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dani_\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

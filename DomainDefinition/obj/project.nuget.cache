@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RWoLCwU4mudPb9HrouRNabFgnBgGJvkddRBfPXBT2LUDmFHORFoICi3WjVxRR4j9JjxI4UB5QYf+G63xr3Ukzw==",
+  "dgSpecHash": "Pjx9B5ls8wSdcboTcMwvzrsTxIT1DOIhcu8CeOoS3FO+BMG8yy3uyRz5U/GHvU44GpDSj2nW9eob25pgn5YO6g==",
   "success": true,
-  "projectFilePath": "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj",
+  "projectFilePath": "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dani_\\.nuget\\packages\\microsoft.aspnet.cors\\5.3.0\\microsoft.aspnet.cors.5.3.0.nupkg.sha512"
   ],

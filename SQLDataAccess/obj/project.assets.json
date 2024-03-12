@@ -2862,11 +2862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programare Daria\\csharp-course-1-main_bun\\SQLDataAccess\\SQLDataAccess.csproj",
+      "projectUniqueName": "E:\\Programare Daria\\DariaApp\\SQLDataAccess\\SQLDataAccess.csproj",
       "projectName": "SQLDataAccess",
-      "projectPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\SQLDataAccess\\SQLDataAccess.csproj",
+      "projectPath": "E:\\Programare Daria\\DariaApp\\SQLDataAccess\\SQLDataAccess.csproj",
       "packagesPath": "C:\\Users\\dani_\\.nuget\\packages\\",
-      "outputPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\SQLDataAccess\\obj\\",
+      "outputPath": "E:\\Programare Daria\\DariaApp\\SQLDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dani_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2883,8 +2883,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj": {
-              "projectPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj"
+            "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj": {
+              "projectPath": "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj"
             }
           }
         }

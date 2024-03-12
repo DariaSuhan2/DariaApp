@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programare Daria\\csharp-course-1-main_bun\\InMemoryDataAccess\\InMemoryDataAccess.csproj",
+      "projectUniqueName": "E:\\Programare Daria\\DariaApp\\InMemoryDataAccess\\InMemoryDataAccess.csproj",
       "projectName": "InMemoryDataAccess",
-      "projectPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\InMemoryDataAccess\\InMemoryDataAccess.csproj",
+      "projectPath": "E:\\Programare Daria\\DariaApp\\InMemoryDataAccess\\InMemoryDataAccess.csproj",
       "packagesPath": "C:\\Users\\dani_\\.nuget\\packages\\",
-      "outputPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\InMemoryDataAccess\\obj\\",
+      "outputPath": "E:\\Programare Daria\\DariaApp\\InMemoryDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dani_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj": {
-              "projectPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\DomainDefinition\\DomainDefinition.csproj"
+            "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj": {
+              "projectPath": "E:\\Programare Daria\\DariaApp\\DomainDefinition\\DomainDefinition.csproj"
             }
           }
         }

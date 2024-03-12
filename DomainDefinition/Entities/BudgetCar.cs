@@ -9,7 +9,9 @@ namespace DomainDefinition
 {
     public class BudgetCar : Car
     {
-        public BudgetCar(int vin, string color, string brand, int doorNr, CarCategory cat, Enums.Fuel fuel): base(vin, color, brand, doorNr, cat, false, false, false, false, false, false, Enums.RadioType.ANALOG, fuel)
+        public BudgetCar(int vin, string color, string brand, int doorNr, CarCategory cat, Enums.Fuel fuel) : base(vin, color, brand, doorNr, cat, false, false, false, false, false, false, Enums.RadioType.ANALOG, fuel)
+
+        //public BudgetCar(int vin, string color, string brand, int doorNr, CarCategory cat, Enums.Fuel fuel, DateTime CreatedOn, DateTime UpdatedOn) : base(vin, color, brand, doorNr, cat, false, false, false, false, false, false, Enums.RadioType.ANALOG, fuel, CreatedOn, UpdatedOn)
         //semnatura meth, constructor, fct, param, prop, meth, apel
         //def constructor a unei cl
         //derived-constructor(parameter-list) : base(argument - list)
@@ -25,9 +27,10 @@ namespace DomainDefinition
               
         }
 
-        public static BudgetCar InitializeFromCar(Car car)
+       public static BudgetCar InitializeFromCar(Car car)
         {
             return new BudgetCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel);
+            //return new BudgetCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel, car.CreatedOn, car.UpdatedOn);
         }
     }
 }

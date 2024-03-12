@@ -35,14 +35,9 @@ namespace SQLDataAccess
 
                 cfg.CreateMap<SqlCar, Car>()
                     .ForMember(d => d.Category, opt => opt.MapFrom(src => new CarCategory(src.CategoryName, 0, 0))
-                    //.ForMember(d => d.Fuel, opt => opt.MapFrom(src => src.Fuel != null ? src.Fuel : String.Empty))
-                   // .ForMember(d => d.Fuel, opt => opt.ResolveUsing(src => src.Fuel))
+                  
                    );
 
-                //cfg.CreateMap<SqlCar, Car>()
-                //   .ForMember(d => d.Fuel, opt => opt.MapFrom(f => f.Fuel)
-                // .ForMember(d => d.Fuel, opt => opt.MapFrom(p => p.Fuel))
-                //    );
             });
 
             mapper = config.CreateMapper();

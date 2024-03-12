@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ooeNa9votBYA2KOmg3te7ZnSHl4DZHyRx5wuvP8vQsKHS3LtQDRgACsLpaEr5GTsPINbYg4QlcGCM0QVMaPkLA==",
+  "dgSpecHash": "u28XYFEHXLEsuZxqXlN20rLMdjijZOVnTQPGkLXotPIYE0vm3CUHPZk8LBYGvNQXcvqCejD6eFXGi/zx3Rkz0w==",
   "success": true,
-  "projectFilePath": "E:\\Programare Daria\\csharp-course-1-main_bun\\SQLDataAccess\\SQLDataAccess.csproj",
+  "projectFilePath": "E:\\Programare Daria\\DariaApp\\SQLDataAccess\\SQLDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dani_\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dani_\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

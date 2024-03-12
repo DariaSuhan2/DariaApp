@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NiZpqWM7I5dbaFmAo+gTv5ZqnCiG70Q0Jpv1WngYnkx8rUFft6NwAryf3qiWVy57TvMVEW6O5qPP0LvGQY63sA==",
+  "dgSpecHash": "fRqYm9GokwdbuWKfzYkK393KEexXWEzXDK+yGmaoVejJ+UHmTLbdvnSY7oy8EZEo8PqeDSzStYxQFmD9JWwFYA==",
   "success": true,
-  "projectFilePath": "E:\\Programare Daria\\csharp-course-1-main_bun\\Daria.ConsoleApp\\Daria.ConsoleApp.csproj",
+  "projectFilePath": "E:\\Programare Daria\\DariaApp\\Daria.ConsoleApp\\Daria.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dani_\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dani_\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

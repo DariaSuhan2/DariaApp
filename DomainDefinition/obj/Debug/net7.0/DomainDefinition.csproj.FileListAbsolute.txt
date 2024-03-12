@@ -46,3 +46,16 @@ E:\Programare Daria\csharp-course-1-main_bun\DomainDefinition\bin\Debug\net7.0\D
 E:\Programare Daria\csharp-course-1-main_bun\DomainDefinition\bin\Debug\net7.0\DomainDefinition.dll
 E:\Programare Daria\csharp-course-1-main_bun\DomainDefinition\bin\Debug\net7.0\DomainDefinition.pdb
 E:\Programare Daria\csharp-course-1-main_bun\DomainDefinition\obj\Debug\net7.0\ref\DomainDefinition.dll
+E:\Programare Daria\DariaApp\DomainDefinition\bin\Debug\net7.0\DomainDefinition.deps.json
+E:\Programare Daria\DariaApp\DomainDefinition\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\DariaApp\DomainDefinition\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.csproj.AssemblyReference.cache
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.AssemblyInfoInputs.cache
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.AssemblyInfo.cs
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.csproj.CoreCompileInputs.cache
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.sourcelink.json
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\refint\DomainDefinition.dll
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\DariaApp\DomainDefinition\obj\Debug\net7.0\ref\DomainDefinition.dll

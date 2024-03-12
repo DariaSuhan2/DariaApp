@@ -9,6 +9,8 @@ namespace DomainDefinition
     public class PremiumCar : Car
     {
         public PremiumCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel) : base(vin, color, brand, doornr, carCategory, true, true, true, true, false, false, Enums.RadioType.DIGITAL, fuel)
+        //public PremiumCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel, DateTime CreatedOn, DateTime UpdatedOn) : base(vin, color, brand, doornr, carCategory, true, true, true, true, false, false, Enums.RadioType.DIGITAL, fuel, CreatedOn, UpdatedOn)
+
         {
             this.Type = "Premium";
         }
@@ -20,6 +22,7 @@ namespace DomainDefinition
         public static PremiumCar InitializeFromCar(Car car)
         {
             return new PremiumCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel);
+            //return new PremiumCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel, car.CreatedOn, car.UpdatedOn);
         }
     }
 }

@@ -13,3 +13,12 @@ E:\Programare Daria\csharp-course-1-main_bun\TextFileDataAccess\obj\Debug\net7.0
 E:\Programare Daria\csharp-course-1-main_bun\TextFileDataAccess\obj\Debug\net7.0\refint\TextFileDataAccess.dll
 E:\Programare Daria\csharp-course-1-main_bun\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.pdb
 E:\Programare Daria\csharp-course-1-main_bun\TextFileDataAccess\obj\Debug\net7.0\ref\TextFileDataAccess.dll
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.csproj.AssemblyReference.cache
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.AssemblyInfoInputs.cache
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.AssemblyInfo.cs
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.csproj.CoreCompileInputs.cache
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.sourcelink.json
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.dll
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\refint\TextFileDataAccess.dll
+E:\Programare Daria\DariaApp\TextFileDataAccess\obj\Debug\net7.0\TextFileDataAccess.pdb

@@ -3903,11 +3903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programare Daria\\csharp-course-1-main_bun\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "E:\\Programare Daria\\DariaApp\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\WebApi\\WebApi.csproj",
+      "projectPath": "E:\\Programare Daria\\DariaApp\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\dani_\\.nuget\\packages\\",
-      "outputPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\WebApi\\obj\\",
+      "outputPath": "E:\\Programare Daria\\DariaApp\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dani_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3924,8 +3924,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Programare Daria\\csharp-course-1-main_bun\\Services\\Services.csproj": {
-              "projectPath": "E:\\Programare Daria\\csharp-course-1-main_bun\\Services\\Services.csproj"
+            "E:\\Programare Daria\\DariaApp\\Services\\Services.csproj": {
+              "projectPath": "E:\\Programare Daria\\DariaApp\\Services\\Services.csproj"
             }
           }
         }

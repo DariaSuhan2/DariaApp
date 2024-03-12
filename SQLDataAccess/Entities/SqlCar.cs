@@ -23,5 +23,8 @@ namespace SQLDataAccess.Entities
         public string Radio { get; set; }
         public string Type { get; set; }
         public string Fuel { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public DateTime UpdatedOn { get; set; }
+
     }
 }
