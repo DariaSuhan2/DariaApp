@@ -1,0 +1,82 @@
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.AssemblyInfo.cs
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Daria.ConsoleApp.exe
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Daria.ConsoleApp.deps.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Daria.ConsoleApp.runtimeconfig.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Daria.ConsoleApp.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Daria.ConsoleApp.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\AutoMapper.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Azure.Core.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Azure.Identity.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Castle.Core.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Web.Cors.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Mindbox.Data.Linq.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Mindbox.Expressions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\DomainDefinition.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Services.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\Services.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.csproj.AssemblyReference.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.AssemblyInfoInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.AssemblyInfo.cs
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.csproj.CopyComplete
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\refint\Daria.ConsoleApp.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.genruntimeconfig.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\Daria.ConsoleApp\obj\Debug\net7.0\ref\Daria.ConsoleApp.dll
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.csproj.AssemblyReference.cache
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.AssemblyInfoInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.AssemblyInfo.cs
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.dll
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\refint\Daria.ConsoleApp.dll
+E:\Programare Daria\csharp-course-1-main_bun\Daria.ConsoleApp\obj\Debug\net7.0\Daria.ConsoleApp.pdb
