@@ -1,0 +1,60 @@
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.deps.json
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.AssemblyReference.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfoInputs.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfo.cs
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CopyComplete
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\refint\SQLDataAccess.dll
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.pdb
+C:\Users\teodo\Downloads\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\ref\SQLDataAccess.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.deps.json
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.AssemblyReference.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfoInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfo.cs
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CoreCompileInputs.cache
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CopyComplete
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\refint\SQLDataAccess.dll
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.pdb
+E:\Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\ref\SQLDataAccess.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.deps.json
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.AssemblyReference.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfoInputs.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfo.cs
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CoreCompileInputs.cache
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CopyComplete
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\refint\SQLDataAccess.dll
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\GitHub\csharp-course-1-main\csharp-course-1-main\SQLDataAccess\obj\Debug\net7.0\ref\SQLDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.deps.json
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\bin\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.dll
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\bin\Debug\net7.0\DomainDefinition.pdb
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.AssemblyReference.cache
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfoInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.AssemblyInfo.cs
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CoreCompileInputs.cache
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.csproj.CopyComplete
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\refint\SQLDataAccess.dll
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\SQLDataAccess.pdb
+E:\Programare Daria\csharp-course-1-main_bun\SQLDataAccess\obj\Debug\net7.0\ref\SQLDataAccess.dll
