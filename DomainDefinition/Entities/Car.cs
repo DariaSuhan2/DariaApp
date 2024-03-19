@@ -23,8 +23,8 @@ namespace DomainDefinition
         public string Type { get; set; }
         public Enums.Fuel Fuel { get; set; }
 
-        /* public DateTime CreatedOn  { get; set; }
-         public DateTime UpdatedOn  { get; set; }*/
+         public DateTime CreatedOn  { get; set; }
+         public DateTime UpdatedOn  { get; set; }
          
 
           
