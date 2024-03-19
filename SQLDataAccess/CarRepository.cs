@@ -78,7 +78,9 @@ namespace SQLDataAccess
                             car.Radio = pRow["Radio"].ToString();
                             car.Type = pRow["Type"].ToString();
                             car.Fuel = pRow["Fuel"].ToString();
-                           // var a = pRow["Fuel"].ToString();
+                            car.CreatedOn = Convert.ToDateTime(pRow["CreatedOn"]);
+                            car.UpdatedOn = Convert.ToDateTime(pRow["UpdatedOn"]);
+                            // var a = pRow["Fuel"].ToString();
                             dbCars.Add(car);
                         }
                     }
@@ -148,9 +150,10 @@ namespace SQLDataAccess
 
                 var sqlCar = mapper.Map<SqlCar>(carInstance);
 
-                var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel) " +
-                    "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel)";
-
+               // var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel) " +
+                  //  "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel)";
+                var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel, CreatedOn, UpdatedOn) " +
+                   "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel, @CreatedOn, @UpdatedOn)";
                 SqlCommand cmd = new SqlCommand(insertQuery, connection);
 
                 cmd.Parameters.Add("@VIN", SqlDbType.Int).Value = sqlCar.VIN;
@@ -167,6 +170,10 @@ namespace SQLDataAccess
                 cmd.Parameters.Add("@Radio", SqlDbType.VarChar, 10).Value = sqlCar.Radio;
                 cmd.Parameters.Add("@Type", SqlDbType.VarChar, 10).Value = sqlCar.Type;
                 cmd.Parameters.Add("@Fuel", SqlDbType.VarChar, 10).Value = sqlCar.Fuel;
+                DateTime CreatedOn = DateTime.Now;
+                DateTime UpdatedOn = DateTime.Now;
+                cmd.Parameters.Add("@CreatedOn", SqlDbType.DateTime).Value = sqlCar.CreatedOn;
+                cmd.Parameters.Add("@UpdatedOn", SqlDbType.DateTime).Value = sqlCar.UpdatedOn;
 
                 try
                 {
@@ -200,8 +207,15 @@ namespace SQLDataAccess
             //var allResults = GetCars(@"UPDATE Car SET Color = '" + carInstance.Color + "', Brand = '" + carInstance.Brand + "', DoorNr = '" + carInstance.DoorNr + "', CategoryName = '" + carInstance.Category.Name + "', Type = '" + carInstance.Type + "'" + "WHERE VIN = " + carInstance.vin);
             var e = carInstance.Radio;
             var f = carInstance.Fuel;
+            DateTime g = carInstance.CreatedOn;
+            DateTime h = DateTime.Now;
+            
+            carInstance.UpdatedOn = h;
+
+
             //var allResults = GetCars(@"UPDATE Car SET Color = '" + carInstance.Color + "', Brand = '" + carInstance.Brand + "', DoorNr = '" + carInstance.DoorNr + "', CategoryName = '" + carInstance.Category.Name + "', Type = '" + carInstance.Type + "', AirConditioning = '" + carInstance.AirConditioning + "', ElectricWindow = '" + carInstance.ElectricWindow + "', ParkingSenzor = '" + carInstance.ParkingSenzor + "', USBPort = '" + carInstance.USBPort + "', ParktronicSystem = '" + carInstance.ParktronicSystem + "', InfotainmentSystem = '" + carInstance.InfotainmentSystem + "', Radio = '" + e + "'" + "WHERE VIN = " + carInstance.vin);
-            var allResults = GetCars(@"UPDATE Car SET Color = '" + carInstance.Color + "', Brand = '" + carInstance.Brand + "', DoorNr = '" + carInstance.DoorNr + "', CategoryName = '" + carInstance.Category.Name + "', Type = '" + carInstance.Type + "', AirConditioning = '" + carInstance.AirConditioning + "', ElectricWindow = '" + carInstance.ElectricWindow + "', ParkingSenzor = '" + carInstance.ParkingSenzor + "', USBPort = '" + carInstance.USBPort + "', ParktronicSystem = '" + carInstance.ParktronicSystem + "', InfotainmentSystem = '" + carInstance.InfotainmentSystem + "', Radio = '" + e + "', Fuel = '" + f + "'" + "WHERE VIN = " + carInstance.vin);
+            //var allResults = GetCars(@"UPDATE Car SET Color = '" + carInstance.Color + "', Brand = '" + carInstance.Brand + "', DoorNr = '" + carInstance.DoorNr + "', CategoryName = '" + carInstance.Category.Name + "', Type = '" + carInstance.Type + "', AirConditioning = '" + carInstance.AirConditioning + "', ElectricWindow = '" + carInstance.ElectricWindow + "', ParkingSenzor = '" + carInstance.ParkingSenzor + "', USBPort = '" + carInstance.USBPort + "', ParktronicSystem = '" + carInstance.ParktronicSystem + "', InfotainmentSystem = '" + carInstance.InfotainmentSystem + "', Radio = '" + e + "', Fuel = '" + f + "'" + "WHERE VIN = " + carInstance.vin);
+            var allResults = GetCars(@"UPDATE Car SET Color = '" + carInstance.Color + "', Brand = '" + carInstance.Brand + "', DoorNr = '" + carInstance.DoorNr + "', CategoryName = '" + carInstance.Category.Name + "', Type = '" + carInstance.Type + "', AirConditioning = '" + carInstance.AirConditioning + "', ElectricWindow = '" + carInstance.ElectricWindow + "', ParkingSenzor = '" + carInstance.ParkingSenzor + "', USBPort = '" + carInstance.USBPort + "', ParktronicSystem = '" + carInstance.ParktronicSystem + "', InfotainmentSystem = '" + carInstance.InfotainmentSystem + "', Radio = '" + e + "', Fuel = '" + f + "', CreatedOn = '" + g + "', UpdatedOn = '" + h + "'" + "WHERE VIN = " + carInstance.vin);
             if (allResults.Count == 1)
                 return allResults[0];
             else return null;

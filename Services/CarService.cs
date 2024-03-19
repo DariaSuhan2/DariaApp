@@ -32,21 +32,21 @@ namespace Services
             return this.carRepository.Insert(carInstance);
         }
 
-        public void AddBudgetCar(int vin, string color, string brand, int doorNr, CarCategory carCategory, Enums.Fuel fuel)
+        public void AddBudgetCar(int vin, string color, string brand, int doorNr, CarCategory carCategory, Enums.Fuel fuel, DateTime createdOn, DateTime updatedOn)
         {
-            var carInstance = new BudgetCar(vin, color, brand, doorNr, carCategory, fuel);
+            var carInstance = new BudgetCar(vin, color, brand, doorNr, carCategory, fuel, createdOn, updatedOn);
             AddCar(carInstance);
         }
 
-        public void AddPremiumCar(int vin, string color, string brand, int doorNr, CarCategory carCategory, Enums.Fuel fuel)
+        public void AddPremiumCar(int vin, string color, string brand, int doorNr, CarCategory carCategory, Enums.Fuel fuel, DateTime createdOn, DateTime updatedOn)
         {
-            var carInstance = new PremiumCar(vin, color, brand, doorNr, carCategory, fuel);
+            var carInstance = new PremiumCar(vin, color, brand, doorNr, carCategory, fuel, createdOn, updatedOn);
             AddCar(carInstance);
         }
 
-        public void AddLuxuryCar(int vin, string color, string brand, int doorNr, CarCategory carCategory, Enums.Fuel fuel)
+        public void AddLuxuryCar(int vin, string color, string brand, int doorNr, CarCategory carCategory, Enums.Fuel fuel, DateTime createdOn, DateTime updatedOn)
         {
-            var carInstance = new LuxuryCar(vin, color, brand, doorNr, carCategory, fuel);
+            var carInstance = new LuxuryCar(vin, color, brand, doorNr, carCategory, fuel, createdOn, updatedOn);
             AddCar(carInstance);
         }
 

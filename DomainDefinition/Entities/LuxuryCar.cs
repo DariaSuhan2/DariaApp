@@ -9,8 +9,8 @@ namespace DomainDefinition
     public class LuxuryCar : Car
     {
 
-        public LuxuryCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel) : base(vin, color, brand, doornr, carCategory, true, true, true, true, true, true, Enums.RadioType.DIGITAL, fuel)
-        // public LuxuryCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel, DateTime CreatedOn, DateTime UpdatedOn) : base(vin, color, brand, doornr, carCategory, true, true, true, true, true, true, Enums.RadioType.DIGITAL, fuel, CreatedOn, UpdatedOn)
+        //public LuxuryCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel) : base(vin, color, brand, doornr, carCategory, true, true, true, true, true, true, Enums.RadioType.DIGITAL, fuel)
+        public LuxuryCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel, DateTime CreatedOn, DateTime UpdatedOn) : base(vin, color, brand, doornr, carCategory, true, true, true, true, true, true, Enums.RadioType.DIGITAL, fuel, CreatedOn, UpdatedOn)
 
         {
             this.Type = "Luxury";
@@ -22,8 +22,8 @@ namespace DomainDefinition
 
         public static LuxuryCar InitializeFromCar(Car car)
         {
-            return new LuxuryCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel);
-            //return new LuxuryCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel, car.CreatedOn, car.UpdatedOn)
+            //return new LuxuryCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel);
+            return new LuxuryCar(car.vin, car.Color, car.Brand, car.DoorNr, car.Category, car.Fuel, car.CreatedOn, car.UpdatedOn);
         }
     }
 
