@@ -146,12 +146,7 @@ namespace SQLDataAccess
             //flag
             using (var connection = new System.Data.SqlClient.SqlConnection(_connectionString))
             {
-                //Car newCar = new Car(carInstance);
-
                 var sqlCar = mapper.Map<SqlCar>(carInstance);
-
-               // var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel) " +
-                  //  "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel)";
                 var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel, CreatedOn, UpdatedOn) " +
                    "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel, @CreatedOn, @UpdatedOn)";
                 SqlCommand cmd = new SqlCommand(insertQuery, connection);
@@ -198,7 +193,6 @@ namespace SQLDataAccess
 
         }
 
-
         public Car UpdateCar(Car carInstance)
         {
             //var allResults = GetCars(@"UPDATE Car SET Color = '" + carInstance.Color + "'" + "WHERE VIN = " + carInstance.vin);
@@ -220,16 +214,7 @@ namespace SQLDataAccess
                 return allResults[0];
             else return null;
         }
-
-        /*public Car UpdateColor(int vin, string color)
-        {
-            var allResults = GetCars(@"UPDATE Car SET Color = '" + color + "'" + "WHERE VIN = " + vin);
-            if (allResults.Count == 1)
-                return allResults[0];
-            else return null;
-        }*/
-
-
+        
         
     }
 }
