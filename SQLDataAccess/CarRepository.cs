@@ -141,11 +141,11 @@ namespace SQLDataAccess
 
 
         public Car? Insert(Car carInstance)
-        {
+        {    
             bool wasInserted = false;
-            //flag
             using (var connection = new System.Data.SqlClient.SqlConnection(_connectionString))
             {
+                carInstance.CreatedOn = DateTime.UtcNow;
                 var sqlCar = mapper.Map<SqlCar>(carInstance);
                 var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel, CreatedOn, UpdatedOn) " +
                    "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel, @CreatedOn, @UpdatedOn)";
@@ -186,7 +186,6 @@ namespace SQLDataAccess
                     connection.Close();
                 }
             }
-            //flag
             if (wasInserted)
                 return GetOne(carInstance.vin);
             else return null;
@@ -202,7 +201,7 @@ namespace SQLDataAccess
             var e = carInstance.Radio;
             var f = carInstance.Fuel;
             DateTime g = carInstance.CreatedOn;
-            DateTime h = DateTime.Now;
+            DateTime h = DateTime.UtcNow;
             
             carInstance.UpdatedOn = h;
 
