@@ -5,17 +5,14 @@ namespace DomainDefinition
 {
     public class Car
     {
-
         public int vin { get; set; }
         public string Color { get; set; }
         public string Brand { get; set; }
         public int DoorNr { get; set; }
         public CarCategory? Category { get; set; }
-
         public bool AirConditioning { get; set; }
         public bool ElectricWindow { get; set; }
         public bool ParkingSenzor { get; set; }
-
         public bool USBPort { get; set; }
         public bool ParktronicSystem { get; set; }
         public bool InfotainmentSystem { get; set; }
@@ -23,8 +20,8 @@ namespace DomainDefinition
         public string Type { get; set; }
         public Enums.Fuel Fuel { get; set; }
 
-         public DateTime CreatedOn  { get; set; }
-         public DateTime UpdatedOn  { get; set; }
+        public DateTime? CreatedOn  { get; set; }
+        public DateTime? UpdatedOn  { get; set; }
          
 
           
