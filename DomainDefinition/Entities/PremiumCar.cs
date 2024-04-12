@@ -9,7 +9,7 @@ namespace DomainDefinition
     public class PremiumCar : Car
     {
         //public PremiumCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel) : base(vin, color, brand, doornr, carCategory, true, true, true, true, false, false, Enums.RadioType.DIGITAL, fuel)
-        public PremiumCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel, DateTime CreatedOn, DateTime UpdatedOn) : base(vin, color, brand, doornr, carCategory, true, true, true, true, false, false, Enums.RadioType.DIGITAL, fuel, CreatedOn, UpdatedOn)
+        public PremiumCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel, DateTime? CreatedOn, DateTime? UpdatedOn) : base(vin, color, brand, doornr, carCategory, true, true, true, true, false, false, Enums.RadioType.DIGITAL, fuel, CreatedOn, UpdatedOn)
 
         {
             this.Type = "Premium";

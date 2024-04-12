@@ -10,7 +10,7 @@ namespace DomainDefinition
     {
 
         //public LuxuryCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel) : base(vin, color, brand, doornr, carCategory, true, true, true, true, true, true, Enums.RadioType.DIGITAL, fuel)
-        public LuxuryCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel, DateTime CreatedOn, DateTime UpdatedOn) : base(vin, color, brand, doornr, carCategory, true, true, true, true, true, true, Enums.RadioType.DIGITAL, fuel, CreatedOn, UpdatedOn)
+        public LuxuryCar(int vin, string color, string brand, int doornr, CarCategory carCategory, Enums.Fuel fuel, DateTime? CreatedOn, DateTime? UpdatedOn) : base(vin, color, brand, doornr, carCategory, true, true, true, true, true, true, Enums.RadioType.DIGITAL, fuel, CreatedOn, UpdatedOn)
 
         {
             this.Type = "Luxury";

@@ -34,7 +34,7 @@ namespace DomainDefinition
         }
 
         //public Car(int vin, string color, string brand, int doorNr, CarCategory carCategory, bool airConditioning, bool electricWindow, bool parkingSenzor, bool usbPort, bool parktronicSystem, bool infotainmentSystem, Enums.RadioType radio, Enums.Fuel fuel)
-        public Car(int vin, string color, string brand, int doorNr, CarCategory carCategory, bool airConditioning, bool electricWindow, bool parkingSenzor, bool usbPort, bool parktronicSystem, bool infotainmentSystem, Enums.RadioType radio, Enums.Fuel fuel, DateTime CreatedOn, DateTime UpdatedOn)
+        public Car(int vin, string color, string brand, int doorNr, CarCategory carCategory, bool airConditioning, bool electricWindow, bool parkingSenzor, bool usbPort, bool parktronicSystem, bool infotainmentSystem, Enums.RadioType radio, Enums.Fuel fuel, DateTime? CreatedOn, DateTime? UpdatedOn)
         {
 
             this.vin = vin;

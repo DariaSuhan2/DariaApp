@@ -1,5 +1,6 @@
 //using Microsoft.EntityFrameworkCore;
 //using Microsoft.AspNetCore.Cors;
+//using Microsoft.AspNetCore.Mvc;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +24,8 @@ builder.Services.AddCors(options =>
             });
 });
 
+//builder.Services.AddMvc().AddNewtonsoftJson();
+
 /*builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowEverything", // This is the open house we talked about!
@@ -34,37 +37,6 @@ builder.Services.AddCors(options =>
            });
 });*/
 var app = builder.Build();
-
-
-/*builder.Services.AddCors(options =>
-    options.AddDefaultPolicy(builder =>
-        builder.WithOrigins("http://localhost:4200")
-        //builder.AllowAnyOrigin())
-            .AllowAnyHeader()
-            .AllowAnyMethod()));
-/*void ConfigureServices(IServiceCollection services)
-{
-    services.AddCors(options =>
-    {
-        options.AddPolicy("AllowEverything", // This is the open house we talked about!
-            builder =>
-            {
-                builder.AllowAnyOrigin() // Any origin is welcome...
-                    .AllowAnyHeader() // With any type of headers...
-                    .AllowAnyMethod(); // And any HTTP methods. Such a jolly party indeed!
-            });
-    });
-}*/
-
-
-/*app.UseCors(builder =>
-        builder
-        .WithOrigins("http://localhost:4200/")
-        .AllowAnyMethod()
-        .AllowAnyHeader());*/
-
-
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -85,13 +57,6 @@ app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
 });
-
-
-
-/*pp.Run(async (context) =>
-{
-     await context.Response.WriteAsync("Hello World!");
-});*/
 
 
 app.Run();

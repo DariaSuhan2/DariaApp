@@ -200,7 +200,7 @@ namespace SQLDataAccess
             //var allResults = GetCars(@"UPDATE Car SET Color = '" + carInstance.Color + "', Brand = '" + carInstance.Brand + "', DoorNr = '" + carInstance.DoorNr + "', CategoryName = '" + carInstance.Category.Name + "', Type = '" + carInstance.Type + "'" + "WHERE VIN = " + carInstance.vin);
             var e = carInstance.Radio;
             var f = carInstance.Fuel;
-            DateTime g = carInstance.CreatedOn;
+            DateTime? g = carInstance.CreatedOn;
             DateTime h = DateTime.UtcNow;
             
             carInstance.UpdatedOn = h;
