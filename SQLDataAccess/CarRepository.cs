@@ -166,7 +166,7 @@ namespace SQLDataAccess
                 cmd.Parameters.Add("@Type", SqlDbType.VarChar, 10).Value = sqlCar.Type;
                 cmd.Parameters.Add("@Fuel", SqlDbType.VarChar, 10).Value = sqlCar.Fuel;
                 DateTime CreatedOn = DateTime.Now;
-                DateTime UpdatedOn = DateTime.Now;
+                DateTime? UpdatedOn = null;
                 cmd.Parameters.Add("@CreatedOn", SqlDbType.DateTime).Value = sqlCar.CreatedOn;
                 cmd.Parameters.Add("@UpdatedOn", SqlDbType.DateTime).Value = sqlCar.UpdatedOn;
 
