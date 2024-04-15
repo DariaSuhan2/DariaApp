@@ -79,7 +79,10 @@ namespace SQLDataAccess
                             car.Type = pRow["Type"].ToString();
                             car.Fuel = pRow["Fuel"].ToString();
                             car.CreatedOn = Convert.ToDateTime(pRow["CreatedOn"]);
-                            car.UpdatedOn = Convert.ToDateTime(pRow["UpdatedOn"]);
+                            if (pRow["UpdatedOn"] != null)
+                                car.UpdatedOn = Convert.ToDateTime(pRow["UpdatedOn"]);
+                            else
+                                car.UpdatedOn = null;
                             // var a = pRow["Fuel"].ToString();
                             dbCars.Add(car);
                         }
@@ -147,8 +150,8 @@ namespace SQLDataAccess
             {
                 carInstance.CreatedOn = DateTime.UtcNow;
                 var sqlCar = mapper.Map<SqlCar>(carInstance);
-                var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel, CreatedOn, UpdatedOn) " +
-                   "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel, @CreatedOn, @UpdatedOn)";
+                var insertQuery = "INSERT INTO Car (VIN, Color, Brand, DoorNr, CategoryName, AirConditioning, ElectricWindow, ParkingSenzor, USBPort, ParktronicSystem, InfotainmentSystem, Radio, Type, Fuel, CreatedOn) " +
+                   "VALUES (@VIN, @Color, @Brand, @DoorNr, @CategoryName, @AirConditioning, @ElectricWindow, @ParkingSenzor, @USBPort, @ParktronicSystem, @InfotainmentSystem, @Radio, @Type, @Fuel, GETDATE())";
                 SqlCommand cmd = new SqlCommand(insertQuery, connection);
 
                 cmd.Parameters.Add("@VIN", SqlDbType.Int).Value = sqlCar.VIN;
@@ -165,10 +168,7 @@ namespace SQLDataAccess
                 cmd.Parameters.Add("@Radio", SqlDbType.VarChar, 10).Value = sqlCar.Radio;
                 cmd.Parameters.Add("@Type", SqlDbType.VarChar, 10).Value = sqlCar.Type;
                 cmd.Parameters.Add("@Fuel", SqlDbType.VarChar, 10).Value = sqlCar.Fuel;
-                DateTime CreatedOn = DateTime.Now;
-                DateTime? UpdatedOn = null;
-                cmd.Parameters.Add("@CreatedOn", SqlDbType.DateTime).Value = sqlCar.CreatedOn;
-                cmd.Parameters.Add("@UpdatedOn", SqlDbType.DateTime).Value = sqlCar.UpdatedOn;
+               
 
                 try
                 {
